@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106912664451",
+    "project_id": "mopro-ta",
+    "storage_bucket": "mopro-ta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106912664451:android:afc0e1ff62b3525dbe44b6",
+        "android_client_info": {
+          "package_name": "com.example.image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106912664451-t7o9irtltqri74ucasmu59b5rgf3hfr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQS5Io35BHLAR8e-WxG41dGEi3YLSZey0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106912664451-t7o9irtltqri74ucasmu59b5rgf3hfr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
